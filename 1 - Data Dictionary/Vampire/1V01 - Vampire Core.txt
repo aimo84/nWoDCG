@@ -17,7 +17,7 @@
 
 &special.bloodline.daeva DD=Toreador
 &special.bloodline.gangrel DD=Bruja
-&special.bloodline.mekhet DD=Morbus
+&special.bloodline.mekhet DD=Morbus seikosta 
 &special.bloodline.nosferatu DD=Burakumin
 &special.bloodline.ventrue DD=Malkovia
 
